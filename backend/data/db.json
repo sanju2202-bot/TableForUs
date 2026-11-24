@@ -1,0 +1,1092 @@
+{
+  "users": [
+    {
+      "id": "guest_1795445108288",
+      "name": "Sanju",
+      "email": "guest@tableforus.in",
+      "isGuest": true,
+      "onboardingCompleted": true,
+      "preferences": {
+        "area": "Koramangala",
+        "maxBudget": "any",
+        "ambiance": "All"
+      },
+      "freeBookingsUsed": 3,
+      "walletBalance": 40,
+      "coupons": [
+        {
+          "id": "CPN4608",
+          "code": "BREW50",
+          "label": "₹50 Off Next Table Booking / Order",
+          "amount": 50,
+          "used": true
+        },
+        {
+          "id": "CPN6113",
+          "code": "BREW50",
+          "label": "₹50 Off Next Table Booking / Order",
+          "amount": 50,
+          "used": true
+        },
+        {
+          "id": "CPN2555",
+          "code": "BREW50",
+          "label": "₹50 Off Next Table Booking / Order",
+          "amount": 50,
+          "used": true
+        },
+        {
+          "id": "CPN6354",
+          "code": "BREW50",
+          "label": "₹50 Off Next Table Booking / Order",
+          "amount": 50,
+          "used": true
+        }
+      ],
+      "bookings": [
+        {
+          "id": "BK437367",
+          "cafeId": 10,
+          "cafeName": "DYU Art Cafe",
+          "cafeArea": "Koramangala",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 49,
+          "rewardSummary": "₹20 Instant Cashback credited to Wallet",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:51:13.171Z"
+        },
+        {
+          "id": "BK716763",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 59,
+          "rewardSummary": "₹20 Instant Cashback credited to Wallet",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:49:06.118Z"
+        },
+        {
+          "id": "BK948255",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 99,
+          "rewardSummary": "₹20 Instant Cashback credited to Wallet",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:49:00.944Z"
+        },
+        {
+          "id": "BK917135",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 79,
+          "rewardSummary": "₹20 Instant Cashback credited to Wallet",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:59.738Z"
+        },
+        {
+          "id": "BK479611",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 49,
+          "rewardSummary": "₹20 Instant Cashback credited to Wallet",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:55.739Z"
+        },
+        {
+          "id": "BK654906",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 49,
+          "rewardSummary": "Unlocked Coupon BREW50 (₹50 Off Next Order)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:49.578Z"
+        },
+        {
+          "id": "BK872600",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 49,
+          "rewardSummary": "Unlocked Coupon BREW50 (₹50 Off Next Order)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:42.579Z"
+        },
+        {
+          "id": "BK144157",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 99,
+          "rewardSummary": "Unlocked Coupon BREW50 (₹50 Off Next Order)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:29.267Z"
+        },
+        {
+          "id": "BK650599",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": false,
+          "amountPaid": 99,
+          "rewardSummary": "Unlocked Coupon BREW50 (₹50 Off Next Order)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:24.819Z"
+        },
+        {
+          "id": "BK788638",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": true,
+          "amountPaid": 0,
+          "rewardSummary": "Free Booking #3 of 3 (0 free left)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:10.001Z"
+        },
+        {
+          "id": "BK510566",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": true,
+          "amountPaid": 0,
+          "rewardSummary": "Free Booking #2 of 3 (1 free left)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:48:07.459Z"
+        },
+        {
+          "id": "BK775028",
+          "cafeId": 13,
+          "cafeName": "Bean & Byte Garden Cafe",
+          "cafeArea": "Electronic City",
+          "date": "2026-11-24",
+          "time": "5:30 PM",
+          "guests": 2,
+          "isFree": true,
+          "amountPaid": 0,
+          "rewardSummary": "Free Booking #1 of 3 (2 free left)",
+          "status": "Confirmed",
+          "createdAt": "2026-11-23T14:47:46.582Z"
+        }
+      ]
+    }
+  ],
+  "cafes": [
+    {
+      "id": 1,
+      "name": "The Courtyard Community Cafe",
+      "area": "JP Nagar",
+      "address": "24th Main, 2nd Phase, JP Nagar, Bengaluru",
+      "lat": 12.9078,
+      "lng": 77.5881,
+      "budget": 350,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.7,
+        "food": 4.4,
+        "value": 4.5
+      },
+      "tags": [
+        "Group Tables",
+        "Shaded Garden",
+        "Power Outlets",
+        "Pet Friendly"
+      ],
+      "hours": "8:30 AM – 10:30 PM",
+      "specialty": "Cold Brew Tonic, Pesto Focaccia & Wood-Fired Pizza",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 101,
+          "user": "Ananya R.",
+          "rating": 4.8,
+          "spend": 340,
+          "comment": "Spacious garden tables where 6 of us talked for 3 hours without feeling rushed.",
+          "date": "2 days ago"
+        },
+        {
+          "id": 102,
+          "user": "Rohan K.",
+          "rating": 4.5,
+          "spend": 380,
+          "comment": "Great budget hangout spot right in JP Nagar 2nd Phase.",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Moka & Tales Brewbar",
+      "area": "JP Nagar",
+      "address": "15th Cross, 5th Phase, JP Nagar, Bengaluru",
+      "lat": 12.8995,
+      "lng": 77.5832,
+      "budget": 280,
+      "ambiance": "Cozy & Quiet",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.6,
+        "seating": 4.5,
+        "food": 4.3,
+        "value": 4.8
+      },
+      "tags": [
+        "Student Budget",
+        "Quiet Corner",
+        "Board Games",
+        "Wi-Fi"
+      ],
+      "hours": "9:00 AM – 10:00 PM",
+      "specialty": "Hazelnut Latte, Peri-Peri Fries & Cinnamon Rolls",
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 103,
+          "user": "Sneha M.",
+          "rating": 4.6,
+          "spend": 260,
+          "comment": "Super affordable for college meetups and they have Uno and Jenga!",
+          "date": "4 days ago"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Banyan Tree Roastery",
+      "area": "JP Nagar",
+      "address": "9th Cross, 3rd Phase, JP Nagar, Bengaluru",
+      "lat": 12.9112,
+      "lng": 77.5914,
+      "budget": 520,
+      "ambiance": "Aesthetic & Minimal",
+      "overallRating": 4.7,
+      "subRatings": {
+        "ambiance": 4.9,
+        "seating": 4.6,
+        "food": 4.7,
+        "value": 4.3
+      },
+      "tags": [
+        "Natural Light",
+        "Booth Seating",
+        "Specialty Coffee",
+        "Desserts"
+      ],
+      "hours": "8:00 AM – 11:00 PM",
+      "specialty": "Tiramisu Latte, Truffle Mushroom Toast & Basque Cheesecake",
+      "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 104,
+          "user": "Karthik V.",
+          "rating": 4.7,
+          "spend": 540,
+          "comment": "Minimalist wooden interiors and very comfortable booth seating for 4–6 people.",
+          "date": "5 days ago"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Skyline Deck Cafe",
+      "area": "JP Nagar",
+      "address": "Outer Ring Road, 6th Phase, JP Nagar, Bengaluru",
+      "lat": 12.9018,
+      "lng": 77.5789,
+      "budget": 650,
+      "ambiance": "Rooftop",
+      "overallRating": 4.4,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.4,
+        "food": 4.3,
+        "value": 4
+      },
+      "tags": [
+        "Sunset View",
+        "Evening Breeze",
+        "Large Tables",
+        "Live Acoustic"
+      ],
+      "hours": "11:00 AM – 11:30 PM",
+      "specialty": "Peach Iced Tea, Nachos Grande & Peri-Peri Paneer Skewers",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 105,
+          "user": "Divya N.",
+          "rating": 4.5,
+          "spend": 620,
+          "comment": "Best evening breeze in JP Nagar when catching up with a big group.",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Blue Tokai & Banyan Verandah",
+      "area": "Jayanagar",
+      "address": "11th Main, 4th Block, Jayanagar, Bengaluru",
+      "lat": 12.9279,
+      "lng": 77.5839,
+      "budget": 380,
+      "ambiance": "Cozy & Quiet",
+      "overallRating": 4.7,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.6,
+        "food": 4.7,
+        "value": 4.5
+      },
+      "tags": [
+        "Tree-Lined Street",
+        "Conversation Friendly",
+        "Artisanal Coffee",
+        "Croissants"
+      ],
+      "hours": "7:30 AM – 10:30 PM",
+      "specialty": "Vietnamese Iced Coffee, Almond Croissant & Avocado Sourdough",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 106,
+          "user": "Meera S.",
+          "rating": 4.8,
+          "spend": 360,
+          "comment": "Peaceful Jayanagar 4th Block vibe—you can actually hear each other talk.",
+          "date": "3 days ago"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Dice & Brew Lounge",
+      "area": "Jayanagar",
+      "address": "27th Cross, 3rd Block, Jayanagar, Bengaluru",
+      "lat": 12.9341,
+      "lng": 77.5802,
+      "budget": 290,
+      "ambiance": "Board Games & Lively",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.8,
+        "food": 4.3,
+        "value": 4.7
+      },
+      "tags": [
+        "80+ Board Games",
+        "Long Group Tables",
+        "Student Favorite",
+        "No Rush"
+      ],
+      "hours": "10:30 AM – 10:30 PM",
+      "specialty": "Brownie Shake, Garlic Breadsticks & Classic Cold Coffee",
+      "image": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 107,
+          "user": "Aditya P.",
+          "rating": 4.7,
+          "spend": 280,
+          "comment": "Hands down the best cafe in Jayanagar for a 3-hour board game session with friends.",
+          "date": "6 days ago"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Marigold Garden Bistro",
+      "area": "Jayanagar",
+      "address": "9th Main, 5th Block, Jayanagar, Bengaluru",
+      "lat": 12.9215,
+      "lng": 77.5848,
+      "budget": 490,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.5,
+        "food": 4.5,
+        "value": 4.2
+      },
+      "tags": [
+        "Courtyard Seating",
+        "Brunch Spot",
+        "Dessert Bar",
+        "Group Friendly"
+      ],
+      "hours": "8:30 AM – 10:30 PM",
+      "specialty": "Berry Waffle, Hibiscus Cooler & Spinach Ricotta Ravioli",
+      "image": "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 108,
+          "user": "Nikhil G.",
+          "rating": 4.5,
+          "spend": 480,
+          "comment": "Lush greenery in the middle of Jayanagar, great for weekend catchups.",
+          "date": "2 weeks ago"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Filter & Fold Coffee House",
+      "area": "Jayanagar",
+      "address": "18th Main, 4th T Block, Jayanagar, Bengaluru",
+      "lat": 12.9252,
+      "lng": 77.5901,
+      "budget": 240,
+      "ambiance": "Aesthetic & Minimal",
+      "overallRating": 4.4,
+      "subRatings": {
+        "ambiance": 4.5,
+        "seating": 4.2,
+        "food": 4.4,
+        "value": 4.8
+      },
+      "tags": [
+        "Pocket Friendly",
+        "South Indian Fusion",
+        "Quick Catchup",
+        "Clean & Bright"
+      ],
+      "hours": "8:00 AM – 9:30 PM",
+      "specialty": "Kaapi Tonic, Bun Maska & Paneer Bhurji Panini",
+      "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 109,
+          "user": "Pranav T.",
+          "rating": 4.4,
+          "spend": 230,
+          "comment": "Under ₹250 per person and great fusion snacks.",
+          "date": "5 days ago"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "The Hole In The Wall Cafe",
+      "area": "Koramangala",
+      "address": "8th Main, 4th Block, Koramangala, Bengaluru",
+      "lat": 12.9346,
+      "lng": 77.6264,
+      "budget": 450,
+      "ambiance": "Board Games & Lively",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.6,
+        "seating": 4.4,
+        "food": 4.8,
+        "value": 4.5
+      },
+      "tags": [
+        "Iconic Brunch",
+        "Waffles & Burgers",
+        "Lively Crowd",
+        "Group Booths"
+      ],
+      "hours": "8:30 AM – 9:30 PM",
+      "specialty": "All-English Breakfast, Ferrero Rocher Waffle & Classic Burgers",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 110,
+          "user": "Shreya D.",
+          "rating": 4.7,
+          "spend": 460,
+          "comment": "A Bangalore classic for friend reunions—booking a table ahead saves huge wait times!",
+          "date": "1 day ago"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "DYU Art Cafe",
+      "area": "Koramangala",
+      "address": "KHB Colony, 5th Block, Koramangala, Bengaluru",
+      "lat": 12.9372,
+      "lng": 77.6178,
+      "budget": 420,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.8,
+      "subRatings": {
+        "ambiance": 4.9,
+        "seating": 4.8,
+        "food": 4.6,
+        "value": 4.6
+      },
+      "tags": [
+        "Heritage Courtyard",
+        "Art Gallery",
+        "Long Conversations",
+        "Must Visit"
+      ],
+      "hours": "10:00 AM – 10:30 PM",
+      "specialty": "Banoffee Pie, Tender Coconut Souffle & Iced Mocha",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 111,
+          "user": "Varun M.",
+          "rating": 4.9,
+          "spend": 410,
+          "comment": "The open courtyard and banoffee pie make it the #1 meetup cafe in Koramangala.",
+          "date": "3 days ago"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Third Wave Coffee — 5th Block",
+      "area": "Koramangala",
+      "address": "17th Main, 5th Block, Koramangala, Bengaluru",
+      "lat": 12.9359,
+      "lng": 77.6212,
+      "budget": 320,
+      "ambiance": "Aesthetic & Minimal",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.5,
+        "seating": 4.5,
+        "food": 4.4,
+        "value": 4.5
+      },
+      "tags": [
+        "Central Meetup Point",
+        "Fast Wi-Fi",
+        "Spacious Seating",
+        "Late Evening"
+      ],
+      "hours": "8:00 AM – 12:00 AM",
+      "specialty": "Sea Salt Mocha, Classic Cold Brew & Pesto Chicken Sandwich",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 112,
+          "user": "Harsha B.",
+          "rating": 4.5,
+          "spend": 310,
+          "comment": "Easy central spot when friends come from both Electronic City and Indiranagar.",
+          "date": "6 days ago"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Terrace Tales & Tapas",
+      "area": "Koramangala",
+      "address": "1st A Cross, 7th Block, Koramangala, Bengaluru",
+      "lat": 12.9365,
+      "lng": 77.6135,
+      "budget": 680,
+      "ambiance": "Rooftop",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.6,
+        "food": 4.5,
+        "value": 4.1
+      },
+      "tags": [
+        "Fairy Lights",
+        "Rooftop Lounge",
+        "Birthday Hangouts",
+        "Mocktails"
+      ],
+      "hours": "12:00 PM – 11:30 PM",
+      "specialty": "Watermelon Basil Cooler, Loaded Mezze Platter & Tiramisu",
+      "image": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 113,
+          "user": "Tanvi R.",
+          "rating": 4.6,
+          "spend": 670,
+          "comment": "Lovely fairy-light terrace for evening friend catchups.",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bean & Byte Garden Cafe",
+      "area": "Electronic City",
+      "address": "Neeladri Road, Phase 1, Electronic City, Bengaluru",
+      "lat": 12.8468,
+      "lng": 77.6584,
+      "budget": 270,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.7,
+        "food": 4.4,
+        "value": 4.8
+      },
+      "tags": [
+        "Near Colleges & Tech Parks",
+        "Open Lawn",
+        "Student Budget",
+        "Large Groups"
+      ],
+      "hours": "8:30 AM – 10:30 PM",
+      "specialty": "Iced Caramel Macchiato, Paneer Tikka Wrap & Choco Lava Cake",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 114,
+          "user": "Sanjana M.",
+          "rating": 4.7,
+          "spend": 260,
+          "comment": "Right off Neeladri Road—super convenient and budget-friendly after college classes!",
+          "date": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "The Campus Roastery",
+      "area": "Electronic City",
+      "address": "Doddathoguru Main Rd, Phase 1, Electronic City, Bengaluru",
+      "lat": 12.8492,
+      "lng": 77.6631,
+      "budget": 230,
+      "ambiance": "Board Games & Lively",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.6,
+        "seating": 4.6,
+        "food": 4.3,
+        "value": 4.9
+      },
+      "tags": [
+        "Under ₹250",
+        "Chess & Cards",
+        "Group Booths",
+        "Late Evening"
+      ],
+      "hours": "9:00 AM – 11:00 PM",
+      "specialty": "Oreo Frappe, Masala Maggi Platter & Crispy Corn",
+      "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 115,
+          "user": "Rahul J.",
+          "rating": 4.5,
+          "spend": 220,
+          "comment": "Unbeatable value for money in E-City Phase 1.",
+          "date": "4 days ago"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "E-City Skydeck Coffee Co.",
+      "area": "Electronic City",
+      "address": "Velankani Drive, Phase 1, Electronic City, Bengaluru",
+      "lat": 12.8415,
+      "lng": 77.6658,
+      "budget": 480,
+      "ambiance": "Rooftop",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.5,
+        "food": 4.4,
+        "value": 4.3
+      },
+      "tags": [
+        "Breezy Terrace",
+        "Evening Hangout",
+        "Comfortable Sofas",
+        "Mocktails"
+      ],
+      "hours": "11:00 AM – 11:00 PM",
+      "specialty": "Passionfruit Mojito, BBQ Mushroom Pizza & Hazelnut Brownie",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 116,
+          "user": "Neha K.",
+          "rating": 4.6,
+          "spend": 470,
+          "comment": "Great escape from E-City traffic with spacious sofa seating.",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Quiet Pages Book Cafe",
+      "area": "Electronic City",
+      "address": "Concorde Silicon Valley Rd, Electronic City, Bengaluru",
+      "lat": 12.8389,
+      "lng": 77.6545,
+      "budget": 310,
+      "ambiance": "Cozy & Quiet",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.5,
+        "food": 4.4,
+        "value": 4.6
+      },
+      "tags": [
+        "Book Wall",
+        "Calm Acoustics",
+        "Warm Lighting",
+        "2–4 Seater Nooks"
+      ],
+      "hours": "9:30 AM – 10:00 PM",
+      "specialty": "Matcha Latte, Honey Chili Lotus Stem & Blueberry Cheesecake",
+      "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 117,
+          "user": "Pooja S.",
+          "rating": 4.7,
+          "spend": 300,
+          "comment": "Cozy wooden corners perfect for deep catchups with 2–3 close friends.",
+          "date": "5 days ago"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Silaa The Garden Cafe",
+      "area": "HSR Layout",
+      "address": "27th Main, Sector 1, HSR Layout, Bengaluru",
+      "lat": 12.9135,
+      "lng": 77.6512,
+      "budget": 550,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.8,
+      "subRatings": {
+        "ambiance": 4.9,
+        "seating": 4.8,
+        "food": 4.7,
+        "value": 4.4
+      },
+      "tags": [
+        "Lush Greenery",
+        "Aesthetic Photos",
+        "Group Seating",
+        "Brunch & Dinner"
+      ],
+      "hours": "9:00 AM – 11:00 PM",
+      "specialty": "Rose Pistachio Tres Leches, Truffle Fries & Iced Pour-Over",
+      "image": "https://images.unsplash.com/photo-1525610553991-2bede1a236e2?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 118,
+          "user": "Aarav M.",
+          "rating": 4.8,
+          "spend": 540,
+          "comment": "Gorgeous garden atmosphere in HSR—ideal for weekend group brunches.",
+          "date": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Marseli — Cafe & Patisserie",
+      "area": "HSR Layout",
+      "address": "14th Main, Sector 3, HSR Layout, Bengaluru",
+      "lat": 12.9112,
+      "lng": 77.6388,
+      "budget": 430,
+      "ambiance": "Aesthetic & Minimal",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.4,
+        "food": 4.6,
+        "value": 4.4
+      },
+      "tags": [
+        "Artisan Pastries",
+        "Pastel Minimalist",
+        "Coffee & Dessert",
+        "Easy Parking"
+      ],
+      "hours": "8:30 AM – 10:30 PM",
+      "specialty": "Pain au Chocolat, Lotus Biscoff Latte & Korean Cream Cheese Bun",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 119,
+          "user": "Riya C.",
+          "rating": 4.6,
+          "spend": 420,
+          "comment": "Best pastries in HSR and calm vibes for afternoon conversations.",
+          "date": "4 days ago"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Nivys Resto Cafe & Garden Centre",
+      "area": "HSR Layout",
+      "address": "Haralur Main Rd, Near HSR Sector 2, Bengaluru",
+      "lat": 12.9054,
+      "lng": 77.6528,
+      "budget": 390,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.6,
+        "food": 4.4,
+        "value": 4.6
+      },
+      "tags": [
+        "Nursery & Cafe",
+        "Plant Lovers",
+        "Breezy Open Space",
+        "Midpoint E-City/HSR"
+      ],
+      "hours": "9:00 AM – 10:00 PM",
+      "specialty": "Mint Cold Brew, Grilled Pesto Sandwich & Dark Chocolate Tart",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 120,
+          "user": "Siddharth L.",
+          "rating": 4.6,
+          "spend": 380,
+          "comment": "Half plant nursery, half cafe—super refreshing midpoint between Electronic City and HSR.",
+          "date": "3 days ago"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "HSR Boardroom & Brews",
+      "area": "HSR Layout",
+      "address": "19th Main, Sector 4, HSR Layout, Bengaluru",
+      "lat": 12.9148,
+      "lng": 77.6419,
+      "budget": 310,
+      "ambiance": "Board Games & Lively",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.6,
+        "seating": 4.7,
+        "food": 4.3,
+        "value": 4.6
+      },
+      "tags": [
+        "Tabletop Games",
+        "6–8 Seater Tables",
+        "Student Friendly",
+        "Snacks"
+      ],
+      "hours": "10:00 AM – 11:00 PM",
+      "specialty": "Salted Caramel Cold Coffee, Cheesy Garlic Pull-Apart & Wedges",
+      "image": "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 121,
+          "user": "Kiran V.",
+          "rating": 4.5,
+          "spend": 300,
+          "comment": "Huge tables built for group hangouts.",
+          "date": "1 week ago"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Paper & Pie",
+      "area": "Indiranagar",
+      "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru",
+      "lat": 12.9762,
+      "lng": 77.6412,
+      "budget": 480,
+      "ambiance": "Aesthetic & Minimal",
+      "overallRating": 4.7,
+      "subRatings": {
+        "ambiance": 4.8,
+        "seating": 4.7,
+        "food": 4.6,
+        "value": 4.4
+      },
+      "tags": [
+        "Warm Wood Interiors",
+        "Podcast Pods",
+        "All-Day Breakfast",
+        "Spacious"
+      ],
+      "hours": "8:00 AM – 11:00 PM",
+      "specialty": "Cinnamon French Toast, Flat White & Mushroom Melt",
+      "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 122,
+          "user": "Devika N.",
+          "rating": 4.7,
+          "spend": 470,
+          "comment": "One of the cleanest, most comfortable spaces on 100ft Road to catch up with friends.",
+          "date": "2 days ago"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Yogisthaan Cafe",
+      "area": "Indiranagar",
+      "address": "11th Cross, Stage 1, Indiranagar, Bengaluru",
+      "lat": 12.9805,
+      "lng": 77.6382,
+      "budget": 410,
+      "ambiance": "Outdoor Garden",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.9,
+        "seating": 4.6,
+        "food": 4.4,
+        "value": 4.5
+      },
+      "tags": [
+        "Zen Courtyard",
+        "Floor & Garden Seating",
+        "Peaceful",
+        "Healthy Menu"
+      ],
+      "hours": "8:00 AM – 9:30 PM",
+      "specialty": "Lemongrass Ginger Tea, Hummus Platter & Banana Walnut Cake",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 123,
+          "user": "Anirudh R.",
+          "rating": 4.7,
+          "spend": 400,
+          "comment": "Feels like a calm retreat hidden inside Indiranagar.",
+          "date": "5 days ago"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Ainmane Cafe & Specialty Coffee",
+      "area": "Indiranagar",
+      "address": "12th Main, HAL 2nd Stage, Indiranagar, Bengaluru",
+      "lat": 12.9728,
+      "lng": 77.6445,
+      "budget": 340,
+      "ambiance": "Cozy & Quiet",
+      "overallRating": 4.6,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.4,
+        "food": 4.6,
+        "value": 4.7
+      },
+      "tags": [
+        "Coorg Estate Coffee",
+        "Cozy Verandah",
+        "Great Value",
+        "Quiet Talk"
+      ],
+      "hours": "8:30 AM – 10:00 PM",
+      "specialty": "Coorg Spiced Mocha, Cardamom Cold Brew & Chicken Puff",
+      "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 124,
+          "user": "Chaitra K.",
+          "rating": 4.6,
+          "spend": 330,
+          "comment": "Authentic Coorg coffee at very reasonable prices for 12th Main.",
+          "date": "6 days ago"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Canopy Rooftop Brews",
+      "area": "Indiranagar",
+      "address": "80 Feet Road, Indiranagar, Bengaluru",
+      "lat": 12.9751,
+      "lng": 77.6489,
+      "budget": 620,
+      "ambiance": "Rooftop",
+      "overallRating": 4.5,
+      "subRatings": {
+        "ambiance": 4.7,
+        "seating": 4.6,
+        "food": 4.4,
+        "value": 4.2
+      },
+      "tags": [
+        "Open Sky",
+        "Group Sofas",
+        "Evening Hangout",
+        "Wood-Fired Pizza"
+      ],
+      "hours": "11:30 AM – 11:30 PM",
+      "specialty": "Mango Basil Fizz, Margherita Burrata Pizza & Choco Brownie",
+      "image": "https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?auto=format&fit=crop&w=900&q=80",
+      "reviews": [
+        {
+          "id": 125,
+          "user": "Manish P.",
+          "rating": 4.5,
+          "spend": 600,
+          "comment": "Great evening rooftop vibe for 5–8 friends.",
+          "date": "1 week ago"
+        }
+      ]
+    }
+  ]
+}
